@@ -114,8 +114,5 @@ a:visited{
     padding-bottom: 15px;
 }
 .my-form input{
-    border: 2px solid #ccc;
-    border-radius: 5px;
-    padding: 100px;
-    width: 100%;
+    padding: 8px;
 }
