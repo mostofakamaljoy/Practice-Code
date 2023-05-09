@@ -102,7 +102,7 @@ a:visited{
 }
 .catagories ul li {
     border-bottom: 1.5px solid black;
-    list-style-image: url(../HTML/tik.png);
+    list-style-image: url(../Images/tik.png);
     
 }
 .my-form{
@@ -114,5 +114,8 @@ a:visited{
     padding-bottom: 15px;
 }
 .my-form input{
-    padding: 8px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    padding: 100px;
+    width: 100%;
 }
